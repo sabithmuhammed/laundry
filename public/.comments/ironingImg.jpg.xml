@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption>Ironing</caption>
+  <note>Cropped image of bachelor ironing his clothes in the morning</note>
+  <place/>
+  <categories>
+    <category value="morning"/>
+    <category value="Man"/>
+    <category value="adult"/>
+    <category value="copy-space"/>
+    <category value="stack"/>
+    <category value="closeup"/>
+    <category value="standing"/>
+    <category value="textile"/>
+    <category value="washed"/>
+    <category value="lifestyle"/>
+    <category value="cropped"/>
+    <category value="laundry"/>
+    <category value="clothes"/>
+    <category value="household"/>
+    <category value="male"/>
+    <category value="bachelor"/>
+    <category value="home"/>
+    <category value="shirt"/>
+    <category value="domestic"/>
+    <category value="housekeeping"/>
+    <category value="appliance"/>
+    <category value="room"/>
+    <category value="routine"/>
+    <category value="ironing"/>
+    <category value="iron"/>
+  </categories>
+</comment>
